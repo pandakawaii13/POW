@@ -1,0 +1,70 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TALLER_1
+{
+    class Program
+    {
+        //Atributos - Estado
+        private string tipo, genero, estadoValidacion;
+        private long numero;
+        private bool esValido;
+        //Metodos - Comportamientos
+
+        //Metodo constructor
+
+        public Program()
+        {
+            tipo = "No asignado";
+            numero = 0;
+            genero = "No ingresado";
+            esValido = false;
+            estadoValidacion = "No se pudo validar";
+        }
+        
+        public long Numero {
+            get { return numero; }
+            set
+            {
+                if (value >= 0) numero = value;
+            }
+        }
+           public bool EsValido
+        {
+            get { return EsValido; }
+        }
+
+        public string Genero
+        {
+            get { return genero; }
+            set
+            {
+                if (value == "M"|| value == "F")
+                {
+                    Genero = value;
+                }
+                else
+                {
+                    esValido = false;
+                    estadoValidacion = "Incorrecto pot dato erróneo de género";
+                }
+            }        
+        }
+
+        private void EjecutaValidacion()
+        {
+            //Longitud de # de documento
+            int longitud = numero.ToString().Length;
+
+            //variable "flag" para indicar si se fallo una validación
+            bool estaComprobada = true;
+
+            //Implementación regla no.1
+            //cedula, hombre, longitud entre 3 y 8, rangos entre 1 y 19.999.999 y 70.000.000 y 99.999.999
+        
+        }
+    }
+}
