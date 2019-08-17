@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\bin\Debug\HerenciaFiguras.exe.config
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\bin\Debug\HerenciaFiguras.exe
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\bin\Debug\HerenciaFiguras.pdb
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\obj\Debug\HerenciaFiguras.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\obj\Debug\HerenciaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\obj\Debug\HerenciaFiguras.exe
+C:\Users\ESTUDIANTES\source\repos\HerenciaFiguras\HerenciaFiguras\obj\Debug\HerenciaFiguras.pdb
