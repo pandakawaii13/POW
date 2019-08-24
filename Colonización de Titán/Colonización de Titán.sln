@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colonización de Titán", "Colonización de Titán\Colonización de Titán.csproj", "{CC20A774-BFD7-46D9-9B06-3B716E6F4BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC20A774-BFD7-46D9-9B06-3B716E6F4BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC20A774-BFD7-46D9-9B06-3B716E6F4BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC20A774-BFD7-46D9-9B06-3B716E6F4BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC20A774-BFD7-46D9-9B06-3B716E6F4BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF115FEC-8A1C-4D35-A764-3CE0E35BC978}
+	EndGlobalSection
+EndGlobal
