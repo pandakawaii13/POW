@@ -1,0 +1,10 @@
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.Form1.resources
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.Properties.Resources.resources
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\bin\Debug\Patron_Fachada.exe.config
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\bin\Debug\Patron_Fachada.exe
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\bin\Debug\Patron_Fachada.pdb
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.exe
+C:\Users\ESTUDIANTES\source\repos\Patron_Fachada\Patron_Fachada\obj\Debug\Patron_Fachada.pdb
